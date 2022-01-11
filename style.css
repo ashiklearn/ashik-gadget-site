@@ -1,0 +1,64 @@
+.container{
+    margin-bottom: 50px;
+}
+
+.banner{
+    position: relative;
+    background: url(images/bg-1.png);
+    min-height: 50vh;
+    background-size: 5%;
+    background-position: center;
+    background-repeat: no-repeat; 
+}
+
+.buy-now-button{
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: #fff;
+    border: none; 
+    border-radius: 8px;
+    padding: 9px 25px;
+ cursor: pointer;
+ }
+
+ .smartphones img{
+     width: 50px;
+
+ }
+
+ .card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding-left: 0px;
+}
+.ashik h5{
+text-align:right;
+color: blue;
+
+}
+
+.laptops img{
+    width: 100%;
+}
+
+.product{
+  float: center; 
+   
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+    border-radius: 10px;
+}
+
+.contact{
+    background-image:linear-gradient(90deg,rgb(68, 78, 68),rgb(81, 81, 88));
+    border-radius: 20px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+}
+
+footer{
+    text-align: center;
+}
